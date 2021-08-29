@@ -23,7 +23,7 @@ All the conducted steps (data loading, data processing, data exploration, model 
 
 The data set was split into training and testing sets then the resulting model was evaluated on the test set via mean average precision @10. The score that was reported is 0.96
 
-## Datasets (data folder):
+## Datasets:
 
 Similar Artists Recommendation feature: [Last.fm dataset](http://ocelma.net/MusicRecommendationDataset/lastfm-360K.html)<br>
 Popular Music Recommendation feature:  dataset previously available on Kaggle
