@@ -5,10 +5,10 @@ I built a music recommendation system that comprises 2 features:<br>
 * **Popular Music Recommendation:** recommend to the user the most popular songs according to the selected year <br>
 * **Similar Artists Recommendation:** recommend to the user artists based on his listening history.<br>
 This approach is called collaborative filtering and it takes advantage of an optimization algorithm named ALS (alternating least square) where the number of times an artist was played by an user is considered as an implicit feedback.
-(details about this approach can be found in this [paper](http://yifanhu.net/PUB/cf.pdf)
+(details about this approach can be found in this [paper](http://yifanhu.net/PUB/cf.pdf))
 
 ## Demo video:
-(link to video)
+https://youtu.be/4GWFkkR7mFM
 
 ## Technologies:
 * [Databricks](https://databricks.com/try-databricks)
@@ -26,4 +26,6 @@ The data set was split into training and testing sets then the resulting model w
 ## Datasets (data folder):
 
 Similar Artists Recommendation feature: [Last.fm dataset](http://ocelma.net/MusicRecommendationDataset/lastfm-360K.html)<br>
-Popular Music Recommendation feature:  dataset previously available on Kaggle, refer to the [data folder](https://drive.google.com/drive/folders/1AQzrv0q2cwRXMYyHRbsE6zFF1Sr7WQOx?usp=sharing)
+Popular Music Recommendation feature:  dataset previously available on Kaggle
+
+Both dataset can be downloaded from this [folder](https://drive.google.com/drive/folders/1AQzrv0q2cwRXMYyHRbsE6zFF1Sr7WQOx?usp=sharing)
