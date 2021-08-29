@@ -26,4 +26,4 @@ The data set was split into training and testing sets then the resulting model w
 ## Datasets (data folder):
 
 Similar Artists Recommendation feature: [Last.fm dataset](http://ocelma.net/MusicRecommendationDataset/lastfm-360K.html)<br>
-Popular Music Recommendation feature:  dataset previously available on Kaggle, refer to the [data folder]()
+Popular Music Recommendation feature:  dataset previously available on Kaggle, refer to the [data folder](https://drive.google.com/drive/folders/1AQzrv0q2cwRXMYyHRbsE6zFF1Sr7WQOx?usp=sharing)
