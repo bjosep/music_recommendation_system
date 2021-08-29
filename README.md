@@ -1,5 +1,5 @@
 # music_recommendation_system
-
+![alt text](https://github.com/bjosep/music_recommendation_system/blob/main/misc/music_img.jpg?raw=true)
 ## About:
 I built a music recommendation system that comprises 2 features:<br>
 * **Popular Music Recommendation:** recommend to the user the most popular songs according to the selected year <br>
