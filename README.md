@@ -1,4 +1,4 @@
-# music_recommendation_system
+# Music Recommendation System
 ![alt text](https://github.com/bjosep/music_recommendation_system/blob/main/misc/music_img.jpg?raw=true)
 ## About:
 I built a music recommendation system that comprises 2 features:<br>
